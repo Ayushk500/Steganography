@@ -21,20 +21,24 @@ This project demonstrates the use of steganography to securely hide and extract 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Ayushk500/Steganography.git
+   ```
 
-  2. Navigate to the project directory:
-sh
-cd your-repository
+2. Navigate to the project directory:
+
+```sh 
+  cd Steganography
+```
 
 
-Usage
+## Usage
 Running the Application
+
 Run the GUI application:
 
-
-sh
+```sh
   python gui.py
+```
 
 To Embed a Secret Message:
 
@@ -49,11 +53,17 @@ Enter the password used while encrypting (for decryption).
 Click "Extract Message" to retrieve the secret message.
 
 
-Future Scope
-Advanced Encryption Methods: Integrating more robust encryption methods like AES-256, AES-512, and RSA.
-Multiple Cover File Types: Enabling the selection of various types of cover files, such as music, video, PDF, and more.
-Choice of Encryption Standards: Providing users with options to choose between multiple encryption standards.
-Hiding Different File Formats: Expanding the capability to hide various file formats, including MP4 videos, audio files, and documents.
-pgsql
-Copy
+## Future Scope
+
+- **Advanced Encryption Methods:** 
+  - Integrating more robust encryption methods like AES-256, AES-512, and RSA.
+
+- **Multiple Cover File Types:** 
+  - Enabling the selection of various types of cover files, such as music, video, PDF, and more.
+
+- **Choice of Encryption Standards:** 
+  - Providing users with options to choose between multiple encryption standards.
+
+- **Hiding Different File Formats:** 
+  - Expanding the capability to hide various file formats, including MP4 videos, audio files, and documents.
 
