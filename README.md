@@ -66,7 +66,7 @@ For any questions or suggestions, feel free to contact:
 
 **Ayush Kant**
 
-Email: [ayush06edu@gmail.com.com](mailto:ayush06edu@gmail.com)
+Email: [ayush06edu@gmail.com](mailto:ayush06edu@gmail.com)
 
 
 ## Future Scope
