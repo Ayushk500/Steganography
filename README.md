@@ -13,7 +13,7 @@ This project demonstrates the use of steganography to securely hide and extract 
 - **Libraries**: PIL, OS, Hashlib, Tkinter, filedialog, messagebox
 - **Language**: Python 3
 - **System Configuration**:
-  - Operating System: Windows 10 or above
+  - Operating System: Windows 11 Home
   - Processor: AMD 5500U
   - RAM: 16 GB 
   - Software: Visual Studio Code
