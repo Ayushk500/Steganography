@@ -30,6 +30,11 @@ This project demonstrates the use of steganography to securely hide and extract 
   cd Steganography
 ```
 
+3. Install the required libraries:
+
+```sh
+pip install -r requirements.txt
+```
 
 ## Usage
 Running the Application
@@ -51,6 +56,19 @@ To Extract a Hidden Message:
 Select the encrypted image.
 Enter the password used while encrypting (for decryption).
 Click "Extract Message" to retrieve the secret message.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request with your enhancements.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact Information
+For any questions or suggestions, feel free to contact:
+
+**Ayush Kant**
+
+Email: [ayush06edu@gmail.com.com](mailto:ayush06edu@gmail.com)
 
 
 ## Future Scope
