@@ -45,17 +45,15 @@ Run the GUI application:
   python gui.py
 ```
 
-To Embed a Secret Message:
+### To Embed a Secret Message:
+- Select a cover image.
+- Enter the secret message and password.
+- Click "Embed Message" to generate the stego image.
 
-Select a cover image.
-Enter the secret message and password.
-Click "Embed Message" to generate the stego image.
-
-To Extract a Hidden Message:
-
-Select the encrypted image.
-Enter the password used while encrypting (for decryption).
-Click "Extract Message" to retrieve the secret message.
+### To Extract a Hidden Message:
+- Select the encrypted image.
+- Enter the password used while encrypting (for decryption).
+- Click "Extract Message" to retrieve the secret message.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your enhancements.
