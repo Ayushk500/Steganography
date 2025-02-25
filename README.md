@@ -37,10 +37,10 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Running the Application
+
+### Running the Application
 
 Run the GUI application:
-
 ```sh
   python gui.py
 ```
