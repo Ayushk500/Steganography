@@ -23,6 +23,37 @@ This project demonstrates the use of steganography to securely hide and extract 
    ```sh
    git clone https://github.com/your-username/your-repository.git
 
-2. Navigate to the project directory:
+  2. Navigate to the project directory:
 sh
 cd your-repository
+
+
+Usage
+Running the Application
+Run the GUI application:
+
+
+sh
+  python gui.py
+
+To Embed a Secret Message:
+
+Select a cover image.
+Enter the secret message and password.
+Click "Embed Message" to generate the stego image.
+
+To Extract a Hidden Message:
+
+Select the encrypted image.
+Enter the password used while encrypting (for decryption).
+Click "Extract Message" to retrieve the secret message.
+
+
+Future Scope
+Advanced Encryption Methods: Integrating more robust encryption methods like AES-256, AES-512, and RSA.
+Multiple Cover File Types: Enabling the selection of various types of cover files, such as music, video, PDF, and more.
+Choice of Encryption Standards: Providing users with options to choose between multiple encryption standards.
+Hiding Different File Formats: Expanding the capability to hide various file formats, including MP4 videos, audio files, and documents.
+pgsql
+Copy
+
