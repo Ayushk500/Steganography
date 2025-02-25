@@ -12,13 +12,17 @@ This project demonstrates the use of steganography to securely hide and extract 
 ## Technology Used
 - **Libraries**: PIL, OS, Hashlib, Tkinter, filedialog, messagebox
 - **Language**: Python 3
-- **System Requirements**:
+- **System Configuration**:
   - Operating System: Windows 10 or above
-  - Processor: AMD 4000 series or above/ Intel 8th gen or above
-  - RAM: 8 GB or above
+  - Processor: AMD 5500U
+  - RAM: 16 GB 
   - Software: Visual Studio Code
 
 ## Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/your-repository.git
+
+2. Navigate to the project directory:
+sh
+cd your-repository
